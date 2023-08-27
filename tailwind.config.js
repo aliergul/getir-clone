@@ -5,6 +5,9 @@ module.exports = {
   purge: ["./public/**/*.html", "./src/**/*.{js,jsx,ts,tsx,vue}"],
   theme: {
     extend: {
+      spacing: {
+        '0.1': "1px",
+      },
       colors: {
         "brand-color": "#4c3398",
         "primary-brand-color": "#5d3ebc",
