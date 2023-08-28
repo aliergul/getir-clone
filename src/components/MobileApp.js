@@ -2,7 +2,7 @@ import React from "react";
 
 function MobileApp() {
   return (
-    <div className="bg-primary-brand-color flex justify-between items-center bg-mobile-app mt-7 rounded-lg text-white">
+    <div className="bg-primary-brand-color flex justify-between items-center bg-mobile-app rounded-lg text-white">
       <div className="flex flex-col gap-y-4 p-10">
         <h3 className="font-bold text-2xl tracking-tight">Getir'i indirin!</h3>
         <p className="text-base font-semibold">

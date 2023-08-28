@@ -709,6 +709,14 @@ html, body {
   margin-top: 1.25rem;
 }
 
+.mb-6 {
+  margin-bottom: 1.5rem;
+}
+
+.mt-2 {
+  margin-top: 0.5rem;
+}
+
 .block {
   display: block;
 }
@@ -773,6 +781,10 @@ html, body {
   width: 100%;
 }
 
+.w-\[150px\] {
+  width: 150px;
+}
+
 .flex-1 {
   flex: 1 1 0%;
 }
@@ -804,6 +816,10 @@ html, body {
 
 .grid-cols-8 {
   grid-template-columns: repeat(8, minmax(0, 1fr));
+}
+
+.grid-cols-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .flex-col {
@@ -854,6 +870,15 @@ html, body {
 
 .gap-y-4 {
   row-gap: 1rem;
+}
+
+.gap-x-4 {
+  -webkit-column-gap: 1rem;
+          column-gap: 1rem;
+}
+
+.gap-y-6 {
+  row-gap: 1.5rem;
 }
 
 .overflow-hidden {
@@ -962,6 +987,10 @@ html, body {
   padding: 2.5rem;
 }
 
+.p-14 {
+  padding: 3.5rem;
+}
+
 .px-2 {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
@@ -1012,6 +1041,11 @@ html, body {
 .text-base {
   font-size: 1rem;
   line-height: 1.5rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
 }
 
 .font-semibold {
