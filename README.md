@@ -12,3 +12,6 @@ Kullanılan örnek veriler local'de oluşturulup kullanılmıştır.
 ##### Uygulamaya ilerleyen zamanlarda yine TailwindCss ile Responsive Design eklenecektir.
 #
 
+![ss1](ss1.png)
+![ss2](ss2.png)
+![ss3](ss3.png)
